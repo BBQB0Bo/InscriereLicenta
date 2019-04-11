@@ -28,6 +28,7 @@ Durata: două săptămâni ( Deadline : 1 Aprilie 2019)
  <ul>
   <li>Documentare trimitere automata a unui email ( IMAP , POP ) </li>
   <li>Documentare lucru cu date JSON </li>
+  <li>Documentare prelucrare date primite de la front-end</li>
   <li>Login</li>
   <li>Register</li>
   <li>Edit accounts</li>
