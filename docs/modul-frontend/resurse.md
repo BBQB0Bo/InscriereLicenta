@@ -7,5 +7,5 @@
 <li><a href="https://trello.com/b/gf5VVxdL/front-ip-proiect">Trello</a></li>
 <li><a href="https://www.w3schools.com">Online Web Tutorials</a></li>
 <li><a href="https://vuejs.org/v2/guide/">Vue Js</a></li>
-<li><a href="https://ip-front.monday.com">monday.com ~ Tasks Board</a></li>
+<li><a href="https://ip-front.monday.com/boards/216382209">monday.com ~ Tasks Board</a></li>
 <ul>
