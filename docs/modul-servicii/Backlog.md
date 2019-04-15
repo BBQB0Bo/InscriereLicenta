@@ -34,7 +34,10 @@ Durata: două săptămâni ( Deadline : 1 Aprilie 2019)
   <li>Edit accounts</li>
   <li>Edit committees</li>
   <li>Account manager</li>
+  <li>Insert license info</li>
+  <li>Edit license</li>
   <li>Create new account</li>
+  <li>Log out</li>
  </ul>
  
 <p>DoD:</p>
