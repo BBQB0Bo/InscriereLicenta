@@ -33,7 +33,7 @@ Durata: două săptămâni ( Deadline : 1 Aprilie 2019)
   <li>Register</li>
   <li>Edit accounts</li>
   <li>Edit committees</li>
-  <li>Account manager</li>
+  <li>Account manager - PR</li> 
   <li>Insert license info</li>
   <li>Edit license</li>
   <li>Create new account</li>
