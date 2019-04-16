@@ -29,14 +29,14 @@ Durata: două săptămâni ( Deadline : 1 Aprilie 2019)
   <li>Documentare trimitere automata a unui email ( IMAP , POP ) </li>
   <li>Documentare lucru cu date JSON </li>
   <li>Documentare prelucrare date primite de la front-end</li>
-  <li>Login</li>
-  <li>Register</li>
-  <li>Edit accounts</li>
-  <li>Edit committees</li>
-  <li>Account manager - PR</li> 
-  <li>Insert license info</li>
-  <li>Edit license</li>
-  <li>Create new account</li>
+  <li>Login - Timofte + Platica</li>
+  <li>Register - Timofte + Platica</li>
+  <li>Edit accounts - Toma Remy</li>
+  <li>Edit committees - Lazar Alexandru</li>
+  <li>Account manager - Pintilii Rares</li> 
+  <li>Insert license info - Traistar Bianca</li>
+  <li>Edit license - Chirica Bianca</li>
+  <li>Create new account - Timofti Alexandru</li>
   <li>Log out</li>
  </ul>
  
