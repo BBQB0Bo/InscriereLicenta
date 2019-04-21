@@ -34,7 +34,7 @@ Durata: două săptămâni ( Deadline : 1 Aprilie 2019)
   <li>Edit accounts - Toma Remy</li>
   <li>Edit committees - Lazar Alexandru</li>
   <li>Account manager - Pintilii Rares</li> 
-  <li>Insert license info - Traistar Bianca</li>
+  <li>Insert license info - Traistar Bianca, Bardita Larisa</li>
   <li>Edit license - Chirica Bianca</li>
   <li>Create new account - Timofti Alexandru</li>
   <li>Log out</li>
