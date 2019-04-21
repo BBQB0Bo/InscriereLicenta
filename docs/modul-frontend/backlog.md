@@ -1,19 +1,19 @@
 >**MAINPAGE**
 
 1. Login button
-    - [x] Style
-    - [x] Open modal
+    - [x] Style **Lupoae Eduard**
+    - [x] Open modal **Lupoae Eduard**
     - [x] Visual bugs resolved
-    - [x] Responsiveness
+    - [x] Responsiveness **Lupoae Eduard**
     - [ ] Send user info to be checked in database
     
 2. Register button and page
-    - [x] Button style
-    - [x] Open register.html page
-    - [x] Page style 
-    - [x] Register form
+    - [x] Button style **Lupoae Eduard**
+    - [x] Open register.html page **Lupoae Eduard**
+    - [x] Page style **Lupoae Eduard**
+    - [x] Register form **Lupoae Eduard**
     - [x] Visual bugs resolved
-    - [x] Responsiveness
+    - [x] Responsiveness **Lupoae Eduard**
     - [ ] Send user's data to database
 
 3. Center page info
@@ -30,12 +30,12 @@
 >**ADMIN DASHOARD**
 
 1. Menu pages
-    - [ ] Account manager  ~ ** **
-    - [x] Create new account ~ **Lupoae Eduard**
+    - [x] Account manager  ~ **Vlad Adelin**
+    - [x] Create new account ~ **Lupoae Eduard** time: 4h
     - [ ] Insert license info ~ ** **
     - [ ] Edit license info ~ ** **
-    - [ ] Edit committees ~ ** **
-    - [x] Edit accounts ~ **Lupoae Eduard**
+    - [x] Edit committees ~ **Lupoae Eduard** time 6h
+    - [x] Edit accounts ~ **Lupoae Eduard** time: 4h
     - [x] Log out
     - [ ] Full responsivness and good communication with database / between pages - TESTING ~ **Ilie Paul**
     
