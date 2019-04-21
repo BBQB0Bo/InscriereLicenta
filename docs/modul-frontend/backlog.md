@@ -30,12 +30,12 @@
 >**ADMIN DASHOARD**
 
 1. Menu pages
-    - [ ] Account manager  ~ **Vlad Adelin**
-    - [ ] Create new account ~ **Darabana Robert**
-    - [ ] Insert license info ~ **Antal Cosmin**
-    - [ ] Edit license info ~ **Theodor Grigorovschi**
-    - [ ] Edit committees ~ **Lupoae Eduard**
-    - [ ] Edit accounts ~ **Carp Bianca**
+    - [ ] Account manager  ~ ** **
+    - [x] Create new account ~ **Lupoae Eduard**
+    - [ ] Insert license info ~ ** **
+    - [ ] Edit license info ~ ** **
+    - [ ] Edit committees ~ ** **
+    - [x] Edit accounts ~ **Lupoae Eduard**
     - [x] Log out
     - [ ] Full responsivness and good communication with database / between pages - TESTING ~ **Ilie Paul**
     
