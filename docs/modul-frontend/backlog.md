@@ -32,12 +32,12 @@
 1. Menu pages
     - [x] Account manager  ~ **Vlad Adelin**
     - [x] Create new account ~ **Lupoae Eduard** time: 4h
-    - [ ] Insert license info ~ ** **
+    - [x] Insert license info ~ **Antal Cosmin**
     - [x] Edit license info ~ **Darabana Robert / Carp Bianca** time: 3h
     - [x] Edit committees ~ **Lupoae Eduard** time 6h
     - [x] Edit accounts ~ **Lupoae Eduard** time: 4h
     - [x] Log out
-    - [ ] Full responsivness and good communication with database / between pages - TESTING ~ **Ilie Paul**
+    - [ ] Full responsivness and good communication with database / between pages - TESTING ~ **Ilie Paul & Theodor Grigorovschi**
     
 2. Menu buttons
     - [x] Style ~ **Lupoae Eduard**
