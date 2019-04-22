@@ -1,0 +1,31 @@
+
+<?php
+
+//conectare la baza de date
+$conn = mysql_connect('localhost', 'root', '');
+$db = mysql_select_db('LicenseProject');
+
+//query
+$qry = "SELECT * from Informatii;" ;
+$result = mysql_query($qry);
+
+if (!$result) {
+    echo "Could not successfully run query from DB: " . mysql_error();
+    exit;
+}
+
+if (mysql_num_rows($result) == 0) {
+    echo "No rows found";
+    exit;
+}
+
+while ($row = mysql_fetch_assoc($result)) {
+    echo $row["info_id"];
+    echo $row["title"];
+    echo $row["content"];
+}
+
+mysql_free_result($result);
+
+
+?>

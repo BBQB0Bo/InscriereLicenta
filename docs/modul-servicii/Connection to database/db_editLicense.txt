@@ -1,0 +1,64 @@
+<?php
+ $last_id =0 ;
+
+function OpenCon()
+ {
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "LicenseProject";
+
+// Create connection
+$conn = new mysqli($servername, $username, $password, $dbname);
+// Check connection
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+} 
+ return $conn;
+ }
+ 
+ 
+ function WriteBD($titleNews,$contentNews)
+ {
+	 $stmt = $conn->prepare("INSERT INTO Informatii (title, content) VALUES (?, ?)");
+$stmt->bind_param("ss", $title, $content);
+	  
+$title = $titleNews;
+$cntent = $contentNews ;
+$stmt->execute();
+
+$stmt->close();
+ }
+ 
+ function GetDataId($id)
+ {
+
+	 $stmt = $conn->prepare("SELECT title,content FROM myDB WHERE id= ?");
+$stmt->bind_param("i", $idToLook);
+
+$idToLook = $id;
+$stmt->execute();
+
+
+if ($stmt->num_rows > 0) {
+    // output data of each row
+    while($row = $stmt->fetch_assoc()) {
+       return " " . $row["id"]. " " . $row["title"]. " " . $row["content"]. ;
+    }
+} else {
+    return "0 results";
+}
+ }
+ 
+ function GetLastId()
+ {
+	 return $last_id ;
+ }
+ 
+ 
+function CloseCon($conn)
+ {
+ $conn -> close();
+ }
+   
+?>
