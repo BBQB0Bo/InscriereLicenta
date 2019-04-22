@@ -1,19 +1,19 @@
 >**MAINPAGE**
 
 1. Login button
-    - [x] Style **Lupoae Eduard**
-    - [x] Open modal **Lupoae Eduard**
+    - [x] Style ~ **Lupoae Eduard**
+    - [x] Open modal ~ **Lupoae Eduard**
     - [x] Visual bugs resolved
-    - [x] Responsiveness **Lupoae Eduard**
+    - [x] Responsiveness ~ **Lupoae Eduard**
     - [ ] Send user info to be checked in database
     
 2. Register button and page
-    - [x] Button style **Lupoae Eduard**
-    - [x] Open register.html page **Lupoae Eduard**
-    - [x] Page style **Lupoae Eduard**
-    - [x] Register form **Lupoae Eduard**
+    - [x] Button style ~ **Lupoae Eduard**
+    - [x] Open register.html page ~ **Lupoae Eduard**
+    - [x] Page style ~ **Lupoae Eduard**
+    - [x] Register form ~ **Lupoae Eduard**
     - [x] Visual bugs resolved
-    - [x] Responsiveness **Lupoae Eduard**
+    - [x] Responsiveness ~ **Lupoae Eduard**
     - [ ] Send user's data to database
 
 3. Center page info
@@ -40,9 +40,9 @@
     - [ ] Full responsivness and good communication with database / between pages - TESTING ~ **Ilie Paul**
     
 2. Menu buttons
-    - [x] Style
-    - [x] Visual bugs resolved
-    - [x] Responsiveness
+    - [x] Style ~ **Lupoae Eduard**
+    - [x] Visual bugs resolved 
+    - [x] Responsiveness ~ **Lupoae Eduard**
     - [ ] Open specific page when click on
     
     
