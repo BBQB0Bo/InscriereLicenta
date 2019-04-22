@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard: Create New Account</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/global.css">
+    <link rel="stylesheet" href="css/dashboard.css">
+    <link rel="stylesheet" href="css/create_new_account.css">
+    <link rel="stylesheet" href="css/label-input.css">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/table.css">
+	<link rel="stylesheet" href="css/acc_manager.css">
+    <script src="javascript/JQuery.js"></script>
+    <script src="javascript/responsive-dashboard.js"></script>
+</head>
+<body>
+<div id="dashboard-content">
+    <div id="header">
+        <div class="logo"><a href="#"><img src="image/logo-university.png" alt="Logo-license"></a></div>
+    </div>
+
+    <div class="close-bar">
+        <a class="home">HOME</a>
+    </div>
+
+    <div class="container-admin" id="container">
+        <div class="left-bar">
+            <ul id="nav">
+                <li><a class="selected" href="admin_dashboard.html">Dashboard</a></li>
+                <li><a href="account_manager.html">Account Manager</a></li>
+                <li><a href="create_new_account.html">Create new account</a></li>
+                <li><a href="#">Insert license info</a></li>
+                <li><a href="edit_license.html">Edit license</a></li>
+                <li><a href="#">Edit committees</a></li>
+                <li><a href="edit_accounts.html">Edit accounts</a></li>
+                <li><a href="index.html">Log out</a></li>
+            </ul>
+        </div>
+        <div class="card">
+      <div class="card-header"
+    style="background-image: url(image/student.png)">
+            <div class="card-header-slanted-edge">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200"><path class="polygon" d="M-20,200,1000,0V200Z" /></svg>
+                <a onclick="document.getElementById('add-account').style.display='block'" class="btn-edit"><span>ADD</span></a>
+				<div id="add-account" class="box" >
+                <form class="box-content animate">
+                    <div class="container-login">
+                        <div class="content-login">
+                            <h1 align="center">IMPORTANT</h1>
+                            <hr>
+                        </div>
+                        <div class="form">
+                            <input type="text" name="last-name" placeholder="" autocomplete="off" required/>
+                            <label class="label">
+                                <span class="content-span">Project name</span>
+                            </label>
+                        </div>
+                        <div class="form">
+                            <input type="text" name="first-name" placeholder="" autocomplete="off" required/>
+                            <label class="label">
+                                <span class="content-span">Repository Link</span>
+                            </label>
+                        </div>
+                        <button type="button" class="button-append">Append</button>
+                    </div>
+                </form>
+            </div>
+
+            </div>
+      </div>
+
+      <div class="card-body">
+          <h2 class="name">Nume Student</h2>
+          <div><h2 class="name">Numar Matricol</h2></div>
+		  <div><h2 class="name">E-Mail</h2></div>
+      </div>
+
+      <div class="card-footer">
+          <div class="stats">
+              <div class="stat">
+                <span class="label">Registered</span>
+                <span class="value">Date</span>
+              </div>
+			  <div class="stat">
+                <span class="label">Repository</span>
+				<span class="value">Logo</span>
+              </div>
+			  <div class="stat">
+                <span class="label">Project</span>
+                <span class="value">File</span>
+              </div>
+          </div>
+      </div>
+  </div>
+  </div>
+  </div>
+  <script src="javascript/login-box.js"></script>
+</body>
+</html>
