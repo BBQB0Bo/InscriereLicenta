@@ -33,7 +33,7 @@
     - [x] Account manager  ~ **Vlad Adelin**
     - [x] Create new account ~ **Lupoae Eduard** time: 4h
     - [ ] Insert license info ~ ** **
-    - [x] Edit license info ~ ** Darabana Rober / Carp Bianca ** time: 3h
+    - [x] Edit license info ~ **Darabana Rober / Carp Bianca** time: 3h
     - [x] Edit committees ~ **Lupoae Eduard** time 6h
     - [x] Edit accounts ~ **Lupoae Eduard** time: 4h
     - [x] Log out
