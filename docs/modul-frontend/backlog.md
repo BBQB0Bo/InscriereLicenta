@@ -3,7 +3,7 @@
 1. Login button
     - [x] Style ~ **Lupoae Eduard**
     - [x] Open modal ~ **Lupoae Eduard**
-    - [x] Visual bugs resolved
+    - [x] Visual bugs resolved **Vlad Adelin**
     - [x] Responsiveness ~ **Lupoae Eduard**
     - [ ] Send user info to be checked in database
     
@@ -12,7 +12,7 @@
     - [x] Open register.html page ~ **Lupoae Eduard**
     - [x] Page style ~ **Lupoae Eduard**
     - [x] Register form ~ **Lupoae Eduard**
-    - [x] Visual bugs resolved
+    - [x] Visual bugs resolved **Vlad Adelin**
     - [x] Responsiveness ~ **Lupoae Eduard**
     - [ ] Send user's data to database
 
@@ -20,8 +20,8 @@
     - [x] Committee buttons
     - [ ] Committee buttons ~ style
     - [ ] Open modal / pop up when click on committee buttons
-    - [ ] Visual bugs
-    - [ ] Responsiveness
+    - [ ] Visual bugs 
+    - [ ] Responsiveness **Vlad Adelin**
     
 4. Page implementation
     - [ ] Modeling page using vue ~ **Asanovici Mihai**
@@ -41,7 +41,7 @@
     
 2. Menu buttons
     - [x] Style ~ **Lupoae Eduard**
-    - [x] Visual bugs resolved 
+    - [x] Visual bugs resolved **Vlad Adelin**
     - [x] Responsiveness ~ **Lupoae Eduard**
     - [ ] Open specific page when click on
     
